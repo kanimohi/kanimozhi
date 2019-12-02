@@ -1,0 +1,896 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibbo",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Fibbo",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - F",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.F",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Product",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Product",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sumsqr",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Sumsqr",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Num",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Num",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Km",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Km",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Digitss",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Digitss",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Digit",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Digit",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultithreadingDemo",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.MultithreadingDemo",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Multithread",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Multithread",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Sample",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Staircase",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Staircase",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Arraydiv",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Arraydiv",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Digits",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Digits",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Primes",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Primes",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PlusMinus",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.PlusMinus",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Diagonal",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Diagonal",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ab",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Ab",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddArray",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.AddArray",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Number1",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Number1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Queue1",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Queue1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sta",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Sta",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Reverse",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Reverse",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Str",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Str",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kani",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Kani",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Right",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Right",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - K",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.K",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Number",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Number",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Coin",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Coin",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - T",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.T",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Integer",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Integer",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Binary",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Binary",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Deque11",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Deque11",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Book",
+            "request": "launch",
+            "mainClass": "com.aequalis.Book",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArithmeticExceptions",
+            "request": "launch",
+            "mainClass": "com.aequalis.ArithmeticExceptions",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "com.aequalis.Solution",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - reverce",
+            "request": "launch",
+            "mainClass": "com.aequalis.reverce",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Parent",
+            "request": "launch",
+            "mainClass": "com.aequalis.Parent",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inheritance",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Inheritance",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Animal",
+            "request": "launch",
+            "mainClass": "com.aequalis.Animal",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapStudentDetails",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.MapStudentDetails",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Details",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Details",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Delete2",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Delete2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Delete",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Delete",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapIteration",
+            "request": "launch",
+            "mainClass": "com.aequalis.HashMapIteration",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FinalCountWord",
+            "request": "launch",
+            "mainClass": "com.aequalis.FinalCountWord",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReverceString",
+            "request": "launch",
+            "mainClass": "com.aequalis.ReverceString",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeSet4",
+            "request": "launch",
+            "mainClass": "com.aequalis.TreeSet4",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeSet7",
+            "request": "launch",
+            "mainClass": "com.aequalis.TreeSet7",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashSet4",
+            "request": "launch",
+            "mainClass": "com.aequalis.HashSet4",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestArrayLinked",
+            "request": "launch",
+            "mainClass": "com.aequalis.TestArrayLinked",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedList1",
+            "request": "launch",
+            "mainClass": "com.aequalis.LinkedList1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayList1",
+            "request": "launch",
+            "mainClass": "com.aequalis.ArrayList1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashSet2",
+            "request": "launch",
+            "mainClass": "com.aequalis.HashSet2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Deque2",
+            "request": "launch",
+            "mainClass": "com.aequalis.Deque2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Students2",
+            "request": "launch",
+            "mainClass": "com.aequalis.Students2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Counter",
+            "request": "launch",
+            "mainClass": "com.aequalis.Counter",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - While1",
+            "request": "launch",
+            "mainClass": "com.aequalis.While1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - While",
+            "request": "launch",
+            "mainClass": "com.aequalis.While",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IfElse",
+            "request": "launch",
+            "mainClass": "com.aequalis.IfElse",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Argument",
+            "request": "launch",
+            "mainClass": "com.aequalis.Argument",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Condition",
+            "request": "launch",
+            "mainClass": "com.aequalis.Condition",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Even",
+            "request": "launch",
+            "mainClass": "com.aequalis.Even",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student55",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.Student55",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StudentManagementSystem",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.StudentManagementSystem",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StudentMark",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.StudentMark",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InheritanceChild",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.InheritanceChild",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StudentDetails2",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.StudentDetails2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayList1",
+            "request": "launch",
+            "mainClass": "com.aequalis.student.ArrayList1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test5",
+            "request": "launch",
+            "mainClass": "com.aequalis.Test5",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumMapExample",
+            "request": "launch",
+            "mainClass": "com.aequalis.EnumMapExample",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashTable1",
+            "request": "launch",
+            "mainClass": "com.aequalis.HashTable1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedHashMap1",
+            "request": "launch",
+            "mainClass": "com.aequalis.LinkedHashMap1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMap2",
+            "request": "launch",
+            "mainClass": "com.aequalis.HashMap2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapExample2",
+            "request": "launch",
+            "mainClass": "com.aequalis.MapExample2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapExample",
+            "request": "launch",
+            "mainClass": "com.aequalis.MapExample",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDequeExample",
+            "request": "launch",
+            "mainClass": "com.aequalis.ArrayDequeExample",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestSet1",
+            "request": "launch",
+            "mainClass": "com.aequalis.TestSet1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestSort",
+            "request": "launch",
+            "mainClass": "com.aequalis.TestSort",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CollectionExample",
+            "request": "launch",
+            "mainClass": "com.aequalis.CollectionExample",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumSetExample",
+            "request": "launch",
+            "mainClass": "com.aequalis.EnumSetExample",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeSet2",
+            "request": "launch",
+            "mainClass": "com.aequalis.TreeSet2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestThrow",
+            "request": "launch",
+            "mainClass": "com.aequalis.TestThrow",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedHashSet",
+            "request": "launch",
+            "mainClass": "com.aequalis.LinkedHashSet",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayList3",
+            "request": "launch",
+            "mainClass": "com.aequalis.ArrayList3",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestJavaCollection",
+            "request": "launch",
+            "mainClass": "com.aequalis.TestJavaCollection",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaTestCollection",
+            "request": "launch",
+            "mainClass": "com.aequalis.JavaTestCollection",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaCollection",
+            "request": "launch",
+            "mainClass": "com.aequalis.JavaCollection",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Child2",
+            "request": "launch",
+            "mainClass": "com.aequalis.Child2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exception1",
+            "request": "launch",
+            "mainClass": "com.aequalis.Exception1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TryCatch",
+            "request": "launch",
+            "mainClass": "com.aequalis.TryCatch",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringJoin4",
+            "request": "launch",
+            "mainClass": "com.aequalis.StringJoin4",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IndexOfString",
+            "request": "launch",
+            "mainClass": "com.aequalis.IndexOfString",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test2",
+            "request": "launch",
+            "mainClass": "com.aequalis.Test2",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Contains",
+            "request": "launch",
+            "mainClass": "com.aequalis.Contains",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CompareTo",
+            "request": "launch",
+            "mainClass": "com.aequalis.CompareTo",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Character",
+            "request": "launch",
+            "mainClass": "com.aequalis.Character",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student1",
+            "request": "launch",
+            "mainClass": "com.aequalis.Student1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Buffer",
+            "request": "launch",
+            "mainClass": "com.aequalis.Buffer",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Replace",
+            "request": "launch",
+            "mainClass": "com.aequalis.Replace",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Case",
+            "request": "launch",
+            "mainClass": "com.aequalis.Case",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Compare",
+            "request": "launch",
+            "mainClass": "com.aequalis.Compare",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestImmutable",
+            "request": "launch",
+            "mainClass": "com.aequalis.TestImmutable",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringExample",
+            "request": "launch",
+            "mainClass": "com.aequalis.StringExample",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrMultiplication",
+            "request": "launch",
+            "mainClass": "com.aequalis.ArrMultiplication",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestArray3",
+            "request": "launch",
+            "mainClass": "com.aequalis.TestArray3",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestArray1",
+            "request": "launch",
+            "mainClass": "com.aequalis.TestArray1",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayLenght",
+            "request": "launch",
+            "mainClass": "com.aequalis.ArrayLenght",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bike",
+            "request": "launch",
+            "mainClass": "com.aequalis.Bike",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "com.aequalis.Test",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestInheritance",
+            "request": "launch",
+            "mainClass": "com.aequalis.inheritance.TestInheritance",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestInheritance",
+            "request": "launch",
+            "mainClass": "com.aequalis.TestInheritance",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dog",
+            "request": "launch",
+            "mainClass": "com.aequalis.Dog",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array",
+            "request": "launch",
+            "mainClass": "com.aequalis.Array",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Testsuper",
+            "request": "launch",
+            "mainClass": "com.aequalis.Testsuper",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Constructor",
+            "request": "launch",
+            "mainClass": "com.aequalis.Constructor",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Add",
+            "request": "launch",
+            "mainClass": "com.aequalis.Add",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "com.aequalis.Student",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetInputFromUser",
+            "request": "launch",
+            "mainClass": "com.aequalis.GetInputFromUser",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GetInputFromUser",
+            "request": "launch",
+            "mainClass": "com.GetInputFromUser",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Switch",
+            "request": "launch",
+            "mainClass": "com.aequalis.Switch",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoWhile",
+            "request": "launch",
+            "mainClass": "com.aequalis.DoWhile",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ElseIfCondition",
+            "request": "launch",
+            "mainClass": "com.aequalis.ElseIfCondition",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IfCondition",
+            "request": "launch",
+            "mainClass": "com.aequalis.IfCondition",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhileLoop",
+            "request": "launch",
+            "mainClass": "com.aequalis.WhileLoop",
+            "projectName": "learning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<learning>",
+            "request": "launch",
+            "mainClass": "com.aequalis.App",
+            "projectName": "learning"
+        }
+    ]
+}
