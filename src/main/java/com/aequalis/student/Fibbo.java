@@ -7,6 +7,7 @@ public class Fibbo{
         int t1 = 0, t2 = 1;
         for (int i = 1; i <= n; ++i)
         {
+            System.out.println("***********************");
             System.out.print(t1 + " ");
             int sum = t1 + t2;
             t1 = t2;
